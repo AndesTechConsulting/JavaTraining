@@ -5,6 +5,8 @@ package org.andestech.learning.rfb18.day01;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+
+
+        System.out.println("Java test..." + System.getenv("PATH"));
     }
 }
