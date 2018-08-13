@@ -8,5 +8,6 @@ public class App {
 
 
         System.out.println("+++ Java test..." + System.getenv("PATH"));
+        System.out.println(Datas.DTA_FFF_01);
     }
 }
